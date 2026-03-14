@@ -28,10 +28,10 @@
    - Restyled footer to centered HTML format for a cleaner look
 
 6. **Removed all emojis from section headings**
-   - Stripped emojis (🚀, 🛡️, 🛠️, 📈, 🔒, 📬) from all `##` headings for a cleaner, more professional look
 
-### Shareability Review Notes
-
-- **Content quality:** Clear, concise, and well-structured. Professional tone suitable for public sharing.
-- **Sections covered:** Product overview, key features, ecosystem, growth flywheel, and security — all essential for a shareable org profile.
-- **Action needed (manual):** Verify that `https://docs.sohopay.xyz` is live. If docs aren't hosted yet, consider removing or replacing that link before sharing.
+7. **Rewrote entire README to match website content**
+   - Replaced technical/jargon-heavy content with product-focused messaging from sohopay.xyz
+   - New sections: tagline, what SOHO enables, stats table, 4-step process, OpenClaw pilot CTA
+   - Removed overly technical terms (EIP-712, x402 standard spec, non-custodial architecture, etc.)
+   - Kept social badges and contact section
+   - Updated footer to "© 2026 SOHO Protocol · Base L2 · USDC"
